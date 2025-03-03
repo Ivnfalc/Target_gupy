@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivand\\source\\repos\\Quest\u00E3o2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44995A49-A30C-4CBB-A2D3-7657AB88074D}|Quest\u00E3o2\\Quest\u00E3o2.csproj|c:\\users\\ivand\\source\\repos\\quest\u00E3o2\\quest\u00E3o2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44995A49-A30C-4CBB-A2D3-7657AB88074D}|Quest\u00E3o2\\Quest\u00E3o2.csproj|solutionrelative:quest\u00E3o2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivand\\source\\repos\\Quest\u00E3o2\\Quest\u00E3o2\\Program.cs",
+              "RelativeDocumentMoniker": "Quest\u00E3o2\\Program.cs",
+              "ToolTip": "C:\\Users\\ivand\\source\\repos\\Quest\u00E3o2\\Quest\u00E3o2\\Program.cs",
+              "RelativeToolTip": "Quest\u00E3o2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:26:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
