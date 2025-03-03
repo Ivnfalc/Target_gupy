@@ -1,0 +1,14 @@
+C:\Users\ivand\source\repos\Questão2\Questão2\bin\Debug\net8.0\Questão2.exe
+C:\Users\ivand\source\repos\Questão2\Questão2\bin\Debug\net8.0\Questão2.deps.json
+C:\Users\ivand\source\repos\Questão2\Questão2\bin\Debug\net8.0\Questão2.runtimeconfig.json
+C:\Users\ivand\source\repos\Questão2\Questão2\bin\Debug\net8.0\Questão2.dll
+C:\Users\ivand\source\repos\Questão2\Questão2\bin\Debug\net8.0\Questão2.pdb
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.AssemblyInfoInputs.cache
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.AssemblyInfo.cs
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.csproj.CoreCompileInputs.cache
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.dll
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\refint\Questão2.dll
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.pdb
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\Questão2.genruntimeconfig.cache
+C:\Users\ivand\source\repos\Questão2\Questão2\obj\Debug\net8.0\ref\Questão2.dll
