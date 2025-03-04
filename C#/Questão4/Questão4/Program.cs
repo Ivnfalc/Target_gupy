@@ -5,7 +5,6 @@ class Program
 {
     static void Main()
     {
-        // Dicionário com os valores de faturamento por estado
         Dictionary<string, double> faturamento = new Dictionary<string, double>
         {
             { "SP", 67836.43 },
@@ -15,14 +14,12 @@ class Program
             { "Outros", 19849.53 }
         };
 
-        // Calcula o faturamento total
         double totalFaturamento = 0;
         foreach (var valor in faturamento.Values)
         {
             totalFaturamento += valor;
         }
 
-        // Exibe o percentual de representação por estado
         Console.WriteLine("Percentual de representação por estado:");
         foreach (var estado in faturamento)
         {
