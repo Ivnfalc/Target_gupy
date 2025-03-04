@@ -1,4 +1,3 @@
-# Dicionário com os valores de faturamento por estado
 faturamento = {
     'SP': 67836.43,
     'RJ': 36678.66,
@@ -7,11 +6,11 @@ faturamento = {
     'Outros': 19849.53
 }
 
-# Calcula o faturamento total
-faturamento_total = sum(faturamento.values())
 
-# Calcula e exibe o percentual de representação de cada estado
+fatotal = sum(faturamento.values())
+
+
 print("Percentual de representação por estado:")
 for estado, valor in faturamento.items():
-    percentual = (valor / faturamento_total) * 100
-    print(f"{estado}: {percentual:.2f}%")
+    perc = (valor / fatotal) * 100
+    print(f"{estado}: {perc:.2f}%")
